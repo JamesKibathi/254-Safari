@@ -37,7 +37,7 @@ function Cards() {
               path='/products'
             />
             <CardItem
-              src='images/img-8.jpg'
+              src='images/img-mara.jpg'
               text='The quintessential Masai Mara safaris,thanks to its abundant wildlife and mild climate'
               label='Adrenaline'
               path='/sign-up'
